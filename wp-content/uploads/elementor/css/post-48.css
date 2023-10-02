@@ -1,0 +1,77 @@
+.elementor-48 .elementor-element.elementor-element-7556a1a8:not(.elementor-motion-effects-element-type-background), .elementor-48 .elementor-element.elementor-element-7556a1a8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#4F2C1B8C;background-image:url("http://localhost/project/wp-content/uploads/2021/11/default_banner.png");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-48 .elementor-element.elementor-element-7556a1a8 > .elementor-background-overlay{background-color:#4F2C1B8C;opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-48 .elementor-element.elementor-element-7556a1a8{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:258px 0px 216px 0px;}.elementor-48 .elementor-element.elementor-element-120b2fc{text-align:center;}.elementor-48 .elementor-element.elementor-element-120b2fc .elementor-heading-title{color:var( --e-global-color-ee0c3b0 );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );text-transform:var( --e-global-typography-primary-text-transform );font-style:var( --e-global-typography-primary-font-style );line-height:var( --e-global-typography-primary-line-height );}.elementor-48 .elementor-element.elementor-element-120b2fc > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-48 .elementor-element.elementor-element-2c698932 > .elementor-container{max-width:1170px;}.elementor-48 .elementor-element.elementor-element-2c698932{margin-top:0px;margin-bottom:0px;padding:120px 0px 90px 0px;}.elementor-48 .elementor-element.elementor-element-f8eba72 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-48 .elementor-element.elementor-element-65dee41c{color:var( --e-global-color-primary );font-family:var( --e-global-typography-8eadb26-font-family ), Sans-serif;font-size:var( --e-global-typography-8eadb26-font-size );font-weight:var( --e-global-typography-8eadb26-font-weight );font-style:var( --e-global-typography-8eadb26-font-style );line-height:var( --e-global-typography-8eadb26-line-height );letter-spacing:var( --e-global-typography-8eadb26-letter-spacing );}.elementor-48 .elementor-element.elementor-element-65dee41c > .elementor-widget-container{margin:0px 0px 0px 0px;}@media(max-width:1024px){.elementor-48 .elementor-element.elementor-element-7556a1a8{margin-top:0px;margin-bottom:0px;padding:146px 0px 138px 0px;}.elementor-48 .elementor-element.elementor-element-120b2fc .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-48 .elementor-element.elementor-element-2c698932{padding:62px 40px 50px 40px;}.elementor-48 .elementor-element.elementor-element-f8eba72 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-48 .elementor-element.elementor-element-65dee41c{font-size:var( --e-global-typography-8eadb26-font-size );line-height:var( --e-global-typography-8eadb26-line-height );letter-spacing:var( --e-global-typography-8eadb26-letter-spacing );}}@media(max-width:767px){.elementor-48 .elementor-element.elementor-element-7556a1a8{margin-top:0px;margin-bottom:0px;padding:135px 0px 77px 0px;}.elementor-48 .elementor-element.elementor-element-120b2fc .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-48 .elementor-element.elementor-element-2c698932{padding:30px 20px 30px 20px;}.elementor-48 .elementor-element.elementor-element-65dee41c{font-size:var( --e-global-typography-8eadb26-font-size );line-height:var( --e-global-typography-8eadb26-line-height );letter-spacing:var( --e-global-typography-8eadb26-letter-spacing );}}/* Start custom CSS for section, class: .elementor-element-7556a1a8 */#breadcrumbs a{
+    font-size: inherit;
+    line-height: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    font-weight: inherit;
+}
+#breadcrumbs span.breadcrumb_last {
+    color:#E39925;
+}
+#breadcrumbs a:hover{
+    /*color:#3AC0FF;*/
+}
+@media(max-width:1024px){
+   
+}
+
+@media(max-width:767px){
+
+.breadcrumbs__page--banner .elementor-heading-title span{
+    display:block;
+}
+#breadcrumbs span.breadcrumb_last{
+    display:block;
+}
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-2c698932 */.inner-page p{
+    margin-bottom: 15px !important;
+}
+.inner-page p{
+    color: #464747;
+}
+.inner-page ul {
+    margin: 0 0 30px 30px;
+}
+.inner-page ul li::marker{
+    font-size: 16px;
+    color: rgba(70, 71, 71, 1);
+}
+.inner-page h2 {
+    margin-bottom: 20px;
+    color: #E39925;
+}
+.inner-page h3 {
+    margin-bottom: 30px;
+    color: #19A298;
+}
+.inner-page p + h2 {
+    padding-top: 30px;
+}
+.inner-page p + h3 {
+    padding-top: 30px;
+}
+.inner-page p:last-child {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 767px) {
+ .inner-page p{
+    margin-bottom: 20px;
+ }
+ .inner-page ul {
+    margin: 0 0 20px 30px;
+}
+.inner-page h2 {
+    margin-bottom: 15px;
+}
+.inner-page h3 {
+    margin-bottom: 15px;
+}
+.inner-page p + h2 {
+    padding-top: 14px;
+}
+.inner-page p + h3 {
+    padding-top: 14px;
+}
+}/* End custom CSS */
